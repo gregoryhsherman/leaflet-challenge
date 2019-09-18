@@ -10,7 +10,7 @@ This demostrates how Leaflet.js is used to visualize geoJSON data. The javascrip
 Please refer below for the a screenshots of the visualizations. 
 
 ![ScreenShots of Earthquake Gray Scale Maps](Images/GrayScaleMap.png)
-![ScreenShots of Earthquake Outdoor Maps](Images/OtdoorMap.png)
+![ScreenShots of Earthquake Outdoor Maps](Images/OutdoorMap.png)
 ![ScreenShots of Earthquake Satellite Maps](Images/SatelliteMap.png)
 
 
