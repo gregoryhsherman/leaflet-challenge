@@ -9,10 +9,15 @@ This demostrates how Leaflet.js is used to visualize geoJSON data. The javascrip
 
 # Sources Used 
 queryUrl = "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_month.geojson"
+//
 faultlinequery = "https://raw.githubusercontent.com/fraxen/tectonicplates/master/GeoJSON/PB2002_plates.json"
+//
 outdoorsmap = https://api.tiles.mapbox.com id: "mapbox.outdoors
+//
 satellitemap = https://api.tiles.mapbox.com id: "mapbox.satellite
+//
 grayscalemap = https://api.tiles.mapbox.com id: "mapbox.light
+//
 
 Please refer below for the a screenshots of the visualizations. 
 
